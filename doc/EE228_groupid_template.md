@@ -10,31 +10,29 @@ EE228 课程大作业，利用3D骨架控制3D卡通人物。
 
 1、申请一个autodesk账户，同时申请教育版权限
 
-在获得教育版权限后，会获得maya2020安装包的链接，安装maya2020
+在获得教育版权限后，会获得maya2020安装包的链接，安装maya2020。
 
 2、添加环境变量、安装pip和numpy
 
-将maya安装目录下bin文件夹的路径添加到环境变量
+将maya安装目录下bin文件夹的路径添加到环境变量。
 
-保持maya处于运行状态，安装pip
+保持maya处于运行状态，安装pip。
 
-使用pip安装numpy
+使用pip安装numpy。
 
 3、检查环境
 
-在mayapy中检测一系列import命令
+在mayapy中检测一系列import命令，发现import pymel.core as pm后会报错。
 
-import maya
-import maya.standalone
-maya.standalone.initialize(name='python')
-import maya.OpenMaya as om
-import maya.cmds as cmds
-import pymel.core as pm
-import maya.mel as mel
-import numpy as np
-import os
-import glob
+4、debug
 
+通过路径C:\Users\用户名\Documents\maya\2020,将zh_CN文件夹中内容放到该文件所在的目录，3中报错会消失。
+
+5、此时，可在cmd中顺利运行
+
+mayapy fbx_parser.py xxxx.fbx
+
+说明环境配置完成。
 
 # 匹配流程
 
