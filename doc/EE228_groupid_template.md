@@ -20,6 +20,20 @@ EE228 课程大作业，利用3D骨架控制3D卡通人物。
 
 使用pip安装numpy
 
+3、检查环境
+
+在mayapy中检测一系列import命令
+
+import maya
+import maya.standalone
+maya.standalone.initialize(name='python')
+import maya.OpenMaya as om
+import maya.cmds as cmds
+import pymel.core as pm
+import maya.mel as mel
+import numpy as np
+import os
+import glob
 
 
 # 匹配流程
