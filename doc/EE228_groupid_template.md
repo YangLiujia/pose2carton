@@ -26,7 +26,7 @@ EE228 课程大作业，利用3D骨架控制3D卡通人物。
 
 这里放置来自你最终匹配结果的截图， 如
 
-![image](../img/00.png)![image](../img/01.png)![image](../img/02.png)
+![image](../img/00.png)![image](../img/21.png)![image](../img/22.png)
 
 
 
