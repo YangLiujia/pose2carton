@@ -39,6 +39,26 @@ EE228 课程大作业，利用3D骨架控制3D卡通人物。
 ![image](../img/09.png)
 ![image](../img/10.png)
 ![image](../img/11.png)
+![image](../img/12.png)
+![image](../img/13.png)
+![image](../img/14.png)
+![image](../img/15.png)
+![image](../img/16.png)
+![image](../img/17.png)
+![image](../img/18.png)
+![image](../img/19.png)
+![image](../img/20.png)
+![image](../img/21.png)
+![image](../img/22.png)
+![image](../img/23.png)
+![image](../img/24.png)
+![image](../img/25.png)
+![image](../img/26.png)
+![image](../img/27.png)
+![image](../img/28.png)
+![image](../img/29.png)
+![image](../img/30.png)
+
 
 
 # 协议 
